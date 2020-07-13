@@ -1,4 +1,4 @@
-# Customs_Fraud_Detection
+# Customs Fraud Detection under BACUDA(바꾸다) project
 
 ## BACUDA project (World Customs Organization BAnd of CUstoms Data Analysts)
 BACUDA (BAnd of CUstoms Data Analysts) is a collaborative research project of the World Customs Organization (WCO), Members and data scientists. It aims to develop data analytics algorithms in open-source languages so that all the Members can deploy them with their own data.
