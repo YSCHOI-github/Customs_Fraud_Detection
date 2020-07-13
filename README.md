@@ -16,7 +16,7 @@ This repository is dedicated to providing stepping stones toward DATE model for 
 This repository will provide prerequisite knowledge and practices for machine learning, so that Customs community could better understand cutting edge algorithms in DATE model. 
 
 ## Outline
-- Data overview
+- Synthetic import data
 - Risk profiling (data preprocessing)
 - Decision tree model
 - XGBoost model
