@@ -17,9 +17,9 @@ This repository will provide prerequisite knowledge and practices for machine le
 
 ## Jupyter Notebooks
 
-Please use the linke below to access the notebooks in your web-browser.
+Please use the links below to access the notebooks in your web-browser.
 
-- [Synthetic import data](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_1_Synthetic_import_data.ipynb)
+- [1_1_Synthetic import data](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_1_Synthetic_import_data.ipynb)
 - [How to generate synthetic import data with CTGAN](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_2_How_to_generate_synthetic_import_data_CTGAN.ipynb)
 - [Data preprocessing (Risk profiling)](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/2_Data_preprocessing.ipynb)
 - [Decision tree model](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/3_Decision_Tree_Model.ipynb)
