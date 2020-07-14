@@ -21,6 +21,6 @@ This repository will provide prerequisite knowledge and practices for machine le
 - Decision tree model
 - XGBoost model
 - Comparative analysis of multiple models
-- XGB00st + Logistic regression model
+- XGBoost + Logistic regression model
 - Neural Network model with entity embedding
 - Dual task model
