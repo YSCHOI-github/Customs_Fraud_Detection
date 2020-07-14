@@ -11,7 +11,7 @@ For more details, please refer to the following links;
 - Our KDD Paper: https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding/blob/master/kdd2020-date.pdf
 - Authors: Kim, Sundong and Tsai, Yu-Che and Singh, Karandeep and Choi, Yeonsoo and Ibok, Etim and Li, Cheng-Te and Cha, Meeyoung
 
-## This repository: Step-by-Step toward DATE
+## This repository: stepping stones toward DATE
 This repository is dedicated to providing stepping stones toward DATE model for Customs administrations and officials, who want to develop their capacities to use machine learning in their daily works. 
 This repository will provide prerequisite knowledge and practices for machine learning, so that Customs community could better understand cutting edge algorithms in DATE model. 
 
