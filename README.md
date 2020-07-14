@@ -17,7 +17,7 @@ This repository will provide prerequisite knowledge and practices for machine le
 
 ## Jupyter Notebooks
 
-- Synthetic import data
+- [Synthetic import data](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_1_Synthetic_import_data.ipynb)
 - How to generate synthetic import data with CTGAN
 - Data preprocessing (Risk profiling)
 - Decision tree model
