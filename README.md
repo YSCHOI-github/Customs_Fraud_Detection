@@ -15,7 +15,8 @@ For more details, please refer to the following links;
 This repository is dedicated to providing stepping stones toward DATE model for Customs administrations and officials, who want to develop their capacities to use machine learning in their daily works. 
 This repository will provide prerequisite knowledge and practices for machine learning, so that Customs community could better understand cutting edge algorithms in DATE model. 
 
-## Outline
+## Jupyter Notebooks
+
 - Synthetic import data
 - How to generate synthetic import data with CTGAN
 - Data preprocessing (Risk profiling)
