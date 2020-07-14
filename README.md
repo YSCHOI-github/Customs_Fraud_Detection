@@ -15,7 +15,7 @@ For more details, please refer to the following links;
 This repository is dedicated to providing stepping stones toward DATE model for Customs administrations and officials, who want to develop their capacities to use machine learning in their daily works. 
 This repository will provide prerequisite knowledge and practices for machine learning, so that Customs community could better understand cutting edge algorithms in DATE model. 
 
-## Jupyter Notebooks
+## Stepping stones (Jupyter Notebooks)
 
 Please use the links below to access the notebooks in your web-browser.
 You can download the notebooks and synthetic data by clicking the top-right green button. 
