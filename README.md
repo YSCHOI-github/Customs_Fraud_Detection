@@ -18,12 +18,14 @@ This repository will provide prerequisite knowledge and practices for machine le
 ## Jupyter Notebooks
 
 - [Synthetic import data](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_1_Synthetic_import_data.ipynb)
-- How to generate synthetic import data with CTGAN
-- Data preprocessing (Risk profiling)
-- Decision tree model
-- XGBoost model
-- Comparative analysis of multiple models
-- XGBoost + Logistic regression model
-- Deep learning (Neural Network) model with entity embedding
-- Dual task model
-- DATE model manual
+- [How to generate synthetic import data with CTGAN](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/1_2_How_to_generate_synthetic_import_data_CTGAN.ipynb)
+- [Data preprocessing (Risk profiling)](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/2_Data_preprocessing.ipynb)
+- [Decision tree model](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/3_Decision_Tree_Model.ipynb)
+- [XGBoost model](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/4_XGBoost.ipynb)
+- [Comparative analysis of multiple models](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/5_Comparative_analysis_of_multiple_models.ipynb)
+- [XGBoost + Logistic regression model](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/6_XGBoost_LR.ipynb)
+- [Deep learning (Neural Network) model with entity embedding](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/7_Deep_Learning_with_Entity_Embedding.ipynb
+)
+- [Dual task model](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/8_Dual_Tasks.ipynb)
+- [DATE model manual](https://nbviewer.jupyter.org/github/YSCHOI-github/Customs_Fraud_Detection/blob/master/9_BACUDA_DATE_MODEL_Manual_synthetic_data.ipynb
+)
