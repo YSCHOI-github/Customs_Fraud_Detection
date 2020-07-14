@@ -17,10 +17,12 @@ This repository will provide prerequisite knowledge and practices for machine le
 
 ## Outline
 - Synthetic import data
-- Risk profiling (data preprocessing)
+- How to generate synthetic import data with CTGAN
+- Data preprocessing (Risk profiling)
 - Decision tree model
 - XGBoost model
 - Comparative analysis of multiple models
 - XGBoost + Logistic regression model
-- Neural Network model with entity embedding
+- Deep learning (Neural Network) model with entity embedding
 - Dual task model
+- DATE model manual
