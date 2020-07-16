@@ -8,7 +8,7 @@ The DATE model is the first outcome of BACUDA project, which is to detect under-
 For more details, please refer to the following links;
 - Promotional Video: https://www.youtube.com/watch?v=YhfxCHBNM2g&feature=youtu.be
 - Github repository: https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding
-- Our KDD Paper: https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding/blob/master/kdd2020-date.pdf
+- Our KDD Paper: https://github.com/Roytsai27/Dual-Attentive-Tree-aware-Embedding/blob/master/KDD2020/kdd2020-date-paper.pdf
 - Authors: Kim, Sundong and Tsai, Yu-Che and Singh, Karandeep and Choi, Yeonsoo and Ibok, Etim and Li, Cheng-Te and Cha, Meeyoung
 
 ## This repository: stepping stones toward DATE
